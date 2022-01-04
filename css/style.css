@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#one-top{
+    width: 100%;
+    height: 55px;
+    border-bottom: 1px #EAECEF solid;
+    position: fixed;
+    top: 0;
+    background-color: #ffffff;
+}
+
+#one-top .mian-txt{
+    color: #2C3E50;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 55px;  
+    margin-left: 2%;
+}
+
+#one-top .two-txt{
+    color: #2C3E50;
+    line-height: 55px;
+    float: right;
+    margin-right: 2%;
+}
+
+#one-top .two-txt tx{
+    border-bottom: 2px #339EF4 solid;
+}
+
+#one-top .two-txt txt:hover{   
+    border-bottom: 2px #339EF4 solid;
+}
+
+#mian-png{
+    width: 300px;
+    height: 280px;
+    background-image: url(https://www.mokeedev.com/images/logo.png);
+    background-size: 100% 100%;
+    margin: 80px auto;
+}
+
+#center-txt{
+    text-align: center;
+}
+
+#center-txt .one-txt{
+    font-weight: bold;
+    font-size: 50px;
+    display: block;
+    color: #2C3E50;
+}
+
+#center-txt .two-txt{
+    font-size: 25px;
+    color: #6A8BAD;
+    display: block;
+    margin-top: 20px;
+}
+
+#center-txt button{
+    background: #2196F3;
+    border: none;
+    width: 150px;
+    height: 60px;
+    margin-top: 30px;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+#table-bottom{
+    border-top: 1px #EAECEF solid;
+    border-bottom: 1px #EAECEF solid;
+    width: 65%;
+    margin: 30px auto;
+}
+
+#table-bottom .table-mian{
+    width: 100%;
+}
+
+#table-bottom .table-mian .table-td{
+    width: 30%;
+    font-size: 20px;
+    color: #2C3E50;
+    vertical-align: top;
+}
+
+#table-bottom .table-mian .table-tdd{
+    width: 5%;
+}
+
+#table-bottom .table-mian .table-tr{
+   height: 10px;
+}
+
+#table-bottom .table-mian .table-trs{
+    height: 20px;
+ }
+
+#table-bottom .table-mian .table-tds{
+    width: 30%;
+    font-size: 15px;
+    color: #6A8BAD;
+    line-height: 25px;
+    vertical-align: top;
+}
+
+#bottom-txt{
+    color: #6A8BAD;;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
